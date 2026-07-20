@@ -1,0 +1,13 @@
+# 运行生成的图（示例图保存在 examples/）
+/sal_demo.png
+/sal_demo_jitter.png
+
+# 本地工作文件，不入库
+files.zip
+HANDOFF_FOR_CLAUDE_CODE.md
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
